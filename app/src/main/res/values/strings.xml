@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Online Admission System App</string>
+    <string name="abc_college_of_engineering">ABC College Of Engineering</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="enter_your_first_name">Enter First Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="register">Register</string>
+    <string name="other">Other</string>
+    <string name="male">Male</string>
+    <string name="register_new_account">Register New Account</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_your_home">Welcome To your Home</string>
+    <string name="logout">Logout</string>
+    <string name="keep_me_login">Keep me login</string>
+    <string name="prefLoginState">loginstate</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+</resources>

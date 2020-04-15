@@ -1,0 +1,2 @@
+rootProject.name='Online Admission System App'
+include ':app'
