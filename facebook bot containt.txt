@@ -1,0 +1,9 @@
+i>imtent
+ii>user_response
+iii>bot response
+>pip install flask
+>pip install blob
+>pip install jupyte.exe
+>jyputer notebbook
+>ngrok.exe
+>ngrok.exe http=5002
